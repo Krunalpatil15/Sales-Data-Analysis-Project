@@ -1,0 +1,23 @@
+Analysis: Total Sales by Region
+
+Tool Used: Microsoft Excel Pivot Table + Pivot Chart
+
+Steps Performed:
+1. Opened the sales dataset containing 50,000 rows.
+2. Inserted a Pivot Table from the dataset.
+3. Dragged Region into Rows.
+4. Dragged Sales into Values (Sum of Sales).
+5. Created a Pivot Chart (Clustered Column) from the Pivot Table for visual representation.
+
+Result:
+The Pivot Table and Pivot Chart show total revenue generated in each region.
+The chart provides a clear visual comparison of sales performance across regions.
+
+Insight:
+- North region generated the highest total sales.
+- South, East, and West regions follow closely.
+- This helps understand regional performance and revenue distribution.
+
+Business Use:
+- Identifies regions with the strongest and weakest sales performance.
+- Helps management make data-driven decisions about marketing, resource allocation, and inventory management.
