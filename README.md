@@ -41,25 +41,18 @@ Additional project explanation and documentation.
 
 ## Dashboard Preview
 
-### Full Sales Dashboard
-
-![Dashboard](screenshots/powerbi_dashboard.png)
-
-### Region Filter Example
-
-![Region Filter](screenshots/powerbi_region_filter.png)
-
-### Category Filter Example
-
-![Category Filter](screenshots/powerbi_category_filter.png)
-
-### Sales Trend Over Time
-
-![Sales Trend](screenshots/powerbi_sales_trend.png)
-
 ### Sales by Region
 
-![Sales by Region](screenshots/powerbi_sales_by_region.png)
+![Sales by Region](screenshots/01_total_sales_region.png)
+
+### Top Selling Products
+
+![Top Selling Products](screenshots/02_top_selling_products.png)
+
+### Category Analysis
+
+![Category Analysis](screenshots/03_category_analysis.png)
+
 
 ---
 
