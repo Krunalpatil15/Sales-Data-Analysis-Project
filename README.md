@@ -35,6 +35,10 @@ The dataset includes:
 
 ## Dashboard Preview
 
+### Complete Dashboard
+
+![Sales Dashboard](screenshots/sales_dashboard.png)
+
 ### Sales by Region
 
 ![Sales by Region](screenshots/01_total_sales_region.png)
@@ -52,23 +56,28 @@ The dataset includes:
 
 ## Key Insights
 
-* Identified top-performing products and categories.
-* Analyzed regional sales distribution.
-* Tracked monthly revenue trends.
-* Evaluated overall sales performance using KPIs.
+* Generated insights from 50,000 customer orders and ₹20+ Crore in sales revenue.
+* North region contributed the highest share of overall revenue.
+* Top-performing products accounted for a significant portion of total sales.
+* Category-wise analysis highlighted the strongest revenue-generating segments.
+* Monthly trend analysis revealed fluctuations in sales performance across the year.
+* Interactive KPI dashboards enabled quick monitoring of business performance.
 
 ## Conclusion
 
-This dashboard helps monitor sales performance and supports strategic business planning through data-driven insights.
+This project demonstrates the use of SQL, Excel, and Power BI to analyze sales performance and transform raw data into actionable business insights. Through interactive dashboards and KPI tracking, the project highlights sales trends, top-performing products, and regional performance, helping support data-driven decision-making and business growth.
 
 ## Skills Demonstrated
 
-SQL | Excel | Power BI | KPI Reporting | Dashboard Development | Data Analytics## Key Insights
-
-* Identified total sales revenue across regions.
-* Analyzed which product categories generate the highest revenue.
-* Observed sales trends over time.
-* Created interactive filters to explore data by region and category.
+- SQL Querying and Data Analysis
+- Power BI Dashboard Development
+- Microsoft Excel Data Processing
+- Data Cleaning and Transformation
+- KPI Tracking and Reporting
+- Data Visualization
+- Business Intelligence
+- Sales Performance Analysis
+- Trend Analysis and Insights Generation
 
 ---
 
