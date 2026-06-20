@@ -83,7 +83,19 @@ This project demonstrates the use of SQL, Excel, and Power BI to analyze sales p
 
 ## Author
 
-Krunal Pramod Patil
+**Krunal Patil**
 
-GitHub: https://github.com/Krunalpatil15
-LinkedIn: http://www.linkedin.com/in/krunal-patil-ab10172b9
+MCA Graduate | Aspiring Data Analyst
+
+### Skills
+SQL | Power BI | Excel | Python | Data Visualization | Data Analytics | Machine Learning
+
+### Connect With Me
+
+📧 Email: pkrunalpatil26@gmail.com
+
+💼 LinkedIn: https://linkedin.com/in/krunal-patil-ab10172b9
+
+💻 GitHub: https://github.com/Krunalpatil15
+
+I am passionate about transforming raw data into meaningful insights through analytics, visualization, and business intelligence.
