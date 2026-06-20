@@ -1,43 +1,37 @@
-# Sales Data Analysis Project
+# 📈 Sales Data Analysis Dashboard
+
+## Business Problem
+
+Businesses need to understand sales performance across products, categories, and regions to identify growth opportunities and improve decision-making.
 
 ## Project Overview
 
-This project analyzes sales data and builds an interactive dashboard to understand business performance.
-The goal of the project is to transform raw sales data into meaningful insights using data analysis and visualization tools.
+This project focuses on analyzing sales performance using SQL, Excel, and Power BI. The dashboard highlights revenue trends, top-performing products, and regional sales performance.
 
-The dashboard helps in understanding sales distribution across regions, category performance, and sales trends over time.
+## Dataset Description
 
----
+The dataset includes:
 
-## Tools & Technologies Used
+* Sales Records
+* Product Information
+* Regional Data
+* Revenue Details
 
-* Microsoft Excel – Data cleaning and basic analysis
-* SQL / MySQL – Querying and extracting insights from the dataset
-* Power BI – Data visualization and interactive dashboard creation
+## Tools Used
 
----
+* SQL
+* Excel
+* Power BI
 
-## Project Structure
+## Project Workflow
 
-dataset
-Contains the raw sales dataset used for analysis.
+1. Data Collection
+2. Data Cleaning
+3. SQL Query Analysis
+4. KPI Generation
+5. Dashboard Development
+6. Performance Analysis
 
-excel_analysis
-Excel file used for data exploration and preprocessing.
-
-sql_analysis
-SQL queries used for performing sales analysis.
-
-powerbi_dashboard
-Power BI (.pbix) file containing the interactive dashboard.
-
-screenshots
-Contains images of the Power BI dashboard and visualizations.
-
-documentation
-Additional project explanation and documentation.
-
----
 
 ## Dashboard Preview
 
@@ -57,6 +51,19 @@ Additional project explanation and documentation.
 ---
 
 ## Key Insights
+
+* Identified top-performing products and categories.
+* Analyzed regional sales distribution.
+* Tracked monthly revenue trends.
+* Evaluated overall sales performance using KPIs.
+
+## Conclusion
+
+This dashboard helps monitor sales performance and supports strategic business planning through data-driven insights.
+
+## Skills Demonstrated
+
+SQL | Excel | Power BI | KPI Reporting | Dashboard Development | Data Analytics## Key Insights
 
 * Identified total sales revenue across regions.
 * Analyzed which product categories generate the highest revenue.
